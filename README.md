@@ -28,12 +28,12 @@ Models used:
 
 *RandomForestClassifier
 
-
 Logistic regression results.
-   Accuracy: 0.84 
-   precision:0.89
-   recall:0.94
-   f1-score:0.91
+
+     Accuracy: 0.84 
+     precision:0.89
+     recall:0.94
+     f1-score:0.91
 
 Decision Tree results
 
