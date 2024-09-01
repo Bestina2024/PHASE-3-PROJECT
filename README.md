@@ -12,10 +12,10 @@ There were 8,500,000 Internet users in Syria as of March 2021 for a 46.5% Intern
 # Stake holders
 
 This data is important to: 
-*The Syriatel Mobile Telecom company
-*Shareholders
-*Employees
-*Customers
+   *The Syriatel Mobile Telecom company
+   *Shareholders
+   *Employees
+   *Customers
 
 # Modelling
 Have used different models to see the model that yields the best results from the predictions.
@@ -30,24 +30,24 @@ Models used:
 
 Logistic regression results.
 
-Accuracy: 0.84 
-precision:0.89
-recall:0.94
-f1-score:0.91
+   Accuracy: 0.84 
+   precision:0.89
+   recall:0.94
+   f1-score:0.91
 
 Decision Tree results
 
-Accuracy: 0.82
-precision:0.95
-recall:0.84
-f1-score:0.89
+    Accuracy: 0.82
+    precision:0.95
+    recall:0.84
+    f1-score:0.89
 
 Random Forest results:
 
-Accuracy: 0.90
-precision:0.94
-recall:0.94
-f1-score:0.94
+    Accuracy: 0.90
+    precision:0.94
+    recall:0.94
+    f1-score:0.94
 
 # Model Evaluation
 The Random Forest Classifier is a better model with an accuracy score of 90.25%
