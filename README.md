@@ -2,7 +2,6 @@
 
 # Project Title
 # Customer Churn prediction for SyriaTel
-
 # Project Overview
 
 In this project we are building a classification model to predict whether a customer will stop transacting with Syriatel, which is mobile network provider. We will use machine learning algorithms to build a classifier suited for the best predictions of why customers opt out of business with  the above service provider. 
