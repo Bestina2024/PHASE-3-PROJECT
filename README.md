@@ -30,7 +30,6 @@ Models used:
 
 
 Logistic regression results.
-
    Accuracy: 0.84 
    precision:0.89
    recall:0.94
