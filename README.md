@@ -1,2 +1,3 @@
 # PHASE-3-PROJECT
-project
+Customer churn prediction for Syriatel
+
